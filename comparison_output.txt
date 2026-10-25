@@ -1,0 +1,11 @@
+mariah@mariah:~/Best-Worst-Fit-Memory-Allocation$ gcc comparison.c -o comparison
+mariah@mariah:~/Best-Worst-Fit-Memory-Allocation$ ./comparison
+Best Fit:
+45 MB -> B0
+75 MB -> B2
+100 MB -> B1
+Worst Fit:
+45 MB -> B1
+75 MB -> B2
+100 MB -> WAIT
+mariah@mariah:~/Best-Worst-Fit-Memory-Allocation$

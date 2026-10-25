@@ -1,0 +1,6 @@
+mariah@mariah:~/Best-Worst-Fit-Memory-Allocation$ gcc worstfit.c -o worstfit
+mariah@mariah:~/Best-Worst-Fit-Memory-Allocation$ ./worstfit
+45 MB -> B1
+75 MB -> B2
+100 MB -> WAIT
+mariah@mariah:~/Best-Worst-Fit-Memory-Allocation$
